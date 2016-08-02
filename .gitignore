@@ -17,7 +17,6 @@ build/
 # Eclipse Project Files #
 
 .classpath
-.project
 .settings
 
 # IntelliJ IDEA Files #

@@ -2,3 +2,5 @@ rootProject.name = 'gs-centralized-configuration'
 
 include 'configuration-client'
 include 'configuration-service'
+include 'search-service'
+include 'drools-service'
